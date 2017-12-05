@@ -1,0 +1,37 @@
+{
+    "brand": "Apple iPhone",
+    "name": "6s",
+    "color": "Rose Gold",
+    "code": "MKQM2",
+    "raiting": 4,
+    "storage": [
+	{
+	   "size": 16,
+                     "price": 670,
+	    "avialable": true
+	},
+	{
+	   "size": 32,
+                     "price": 690,
+	    "avialable": true
+	},
+	{
+	   "size": 64,
+                     "price": 720,
+	    "avialable": true
+	},
+	{
+	   "size": 128,
+	   "price": 750,
+	    "avialable": true
+	}
+    ],
+    "photoUrl": [
+	"http://....../img/MKQM2/slide-1.png",
+	"http://....../img/MKQM2/slide-2.png",
+	"http://....../img/MKQM2/slide-2.png",
+	"http://....../img/MKQM2/slide-4.png",
+    ],
+    "stock": true,
+    "description": "Mobile Phone - Apple A9 with 64-bit architecture, M9 motion coprocessor, 5.5" Retina touch screen 1920x1080 with 3D-Touch, 64GB of internal memory, WiFi 802.11a/b/g/n/ac, Bluetooth 4.0, NFC, 12Mpx main camera with True Tone Flash and optical image stabilization, GPS, Touch ID, iOS 9"
+}
